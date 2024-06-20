@@ -1,3 +1,5 @@
+[English](#english) | [Português](#português)
+
 ## English
 
 # Arduino Wiegand Reader
@@ -32,7 +34,7 @@ The goal of this project is to create a Wiegand input device reader using an Ard
 
 Load the sketch `Arduino_Wiegand_Reader.ino` onto your Arduino. The code reads data from a Wiegand device when it is activated and prints the data to the serial console.
 
-## Wiegand Class
+## Wiegand Class ([see more](docs/WiegandReader.md))
 
 The `Wiegand` class is responsible for managing the interface for reading Wiegand device data.
 
@@ -151,7 +153,7 @@ O objetivo deste projeto é criar um leitor de dispositivos de entrada Wiegand u
 
 Carregue o sketch `Arduino_Wiegand_Reader.ino` no seu Arduino. O código lê os dados de um dispositivo Wiegand quando ele é ativado e imprime os dados no console serial.
 
-## Classe Wiegand
+## Classe Wiegand [doc. completa](docs/WiegandReader.md)
 
 A classe `Wiegand` é responsável por gerenciar a interface de leitura dos dados dos dispositivos Wiegand.
 
